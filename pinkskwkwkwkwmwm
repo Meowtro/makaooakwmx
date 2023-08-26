@@ -1,137 +1,283 @@
-{
-    "name": "pinkuwu",
-    "description": ":]",
-    "authors": [
-        {
-            "name": "pinkuwu",
-            "id": "743019350025306133"
-        }
-    ],
-    "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#ffc0cb"
-        ],
-        "HEADER_SECONDARY": [
-            "#ffc0cb"
-        ],
-        "TEXT_NORMAL": [
-            "#ffc0cb"
-        ],
-        "TEXT_MUTED": [
-            "#ffc0cb"
-        ],
-        "TEXT_DANGER": [
-            "#ffc0cb"
-        ],
-        "TEXT_LINK": [
-            "#ffc0cb"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#ffc0cb"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#DCDDDE"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#ffc0cb"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#ffc0cb"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#ffc0cb"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#ffc0cb"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#ffc0cb"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#ffc0cb"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#ffc0cb"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#ffc0cb"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#ffc0cb"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#ffc0cb"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#ffc0cb"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#ffc0cb"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#ffc0cb"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#ffc0cb"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#ffc0cb"
-        ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#ffc0cb"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#ffc0cb"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#ffc0cb"
-        ],
-        "KEYBOARD": [
-            "#ffc0cb"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#ffc0cb"
-        ],
-        "CHANNEL_ICON": [
-            "#ffc0cb"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#ffc0cb"
-        ],
-        "CHAT_BACKGROUND": [
-            "#ffc0cb"
-        ]
-    },
-    "rawColors": {
-        "PRIMARY": "#ffc0cb",
-        "PRIMARY_100": "#ffc0cb",
-        "PRIMARY_200": "#ffc0cb",
-        "PRIMARY_300": "#ffc0cb",
-        "PRIMARY_360": "#ffc0cb",
-        "PRIMARY_400": "#ffc0cb",
-        "PRIMARY_500": "#ffc0cb",
-        "PRIMARY_600": "#ffc0cb",
-        "PRIMARY_630": "#ffc0cb",
-        "PRIMARY_660": "#ffc0cb",
-        "PRIMARY_700": "#ffc0cb",
-        "PRIMARY_800": "#ffc0cb",
-        "PRIMARY_900": "#ffc0cb",
-        "YELLOW_300": "#ffc0cb",
-        "BRAND_260": "#ffc0cb",
-        "BRAND_360": "#ffc0cb",
-        "BRAND_500": "#ffc0cb",
-        "BRAND_560": "#ffc0cb",
-        "GREEN_360": "#ffc0cb",
-        "RED_400": "#ffc0cb",
-        "ORANGE_345": "#ffc0cb",
-        "RED_560": "#ffc0cb",
-        "GREEN_345": "#ffc0cb",
-        "BLUE_345": "#ffc0cb",
-        "WHITE_500": "#ffc0cb"
-       
-    },
-    "spec": 2
+ {
+
+	"name": "WavyPink",
+
+	"description": "The same, but its pink :3",
+
+	"authors": [
+
+		{
+
+			"name": "Ari",
+
+			"id": "639959347518242821"
+
+		}
+
+	],
+
+	"semanticColors": {
+
+		"HEADER_PRIMARY": [
+
+			"#ffffff"
+
+		],
+
+		"HEADER_SECONDARY": [
+
+			"#d6d6d6"
+
+		],
+
+		"TEXT_NORMAL": [
+
+			"#e3e3e3"
+
+		],
+
+		"TEXT_MUTED": [
+
+			"#a6a6a6"
+
+		],
+
+		"TEXT_DANGER": [
+
+			"#f097b5"
+
+		],
+
+		"TEXT_LINK": [
+
+			"#f097b5"
+
+		],
+
+		"INTERACTIVE_NORMAL": [
+
+			"#a1a1a1"
+
+		],
+
+		"INTERACTIVE_HOVER": [
+
+			"#DCDDDE"
+
+		],
+
+		"INTERACTIVE_ACTIVE": [
+
+			"#ffffff"
+
+		],
+
+		"INTERACTIVE_MUTED": [
+
+			"#707070"
+
+		],
+
+		"BACKGROUND_PRIMARY": [
+
+			"#000000"
+
+		],
+
+		"BACKGROUND_SECONDARY": [
+
+			"#000000"
+
+		],
+
+		"BACKGROUND_SECONDARY_ALT": [
+
+			"#000000"
+
+		],
+
+		"BACKGROUND_TERTIARY": [
+
+			"#000000"
+
+		],
+
+		"BACKGROUND_ACCENT": [
+
+			"#f097b5"
+
+		],
+
+		"BACKGROUND_FLOATING": [
+
+			"#000000"
+
+		],
+
+		"BACKGROUND_MOBILE_PRIMARY": [
+
+			"#000000"
+
+		],
+
+		"BACKGROUND_MOBILE_SECONDARY": [
+
+			"#000000"
+
+		],
+
+		"BACKGROUND_NESTED_FLOATING": [
+
+			"#000000"
+
+		],
+
+		"BACKGROUND_MESSAGE_HOVER": [
+
+			"#000000"
+
+		],
+
+		"BACKGROUND_MODIFIER_HOVER": [
+
+			"#000000"
+
+		],
+
+		"BACKGROUND_MODIFIER_SELECTED": [
+
+			"#595959"
+
+		],
+
+		"BACKGROUND_MODIFIER_ACCENT": [
+
+			"#3d3d3d"
+
+		],
+
+		"SCROLLBAR_THIN_THUMB": [
+
+			"#696969"
+
+		],
+
+		"SCROLLBAR_THIN_TRACK": [
+
+			"transparent"
+
+		],
+
+		"SCROLLBAR_AUTO_THUMB": [
+
+			"#000000"
+
+		],
+
+		"SCROLLBAR_AUTO_TRACK": [
+
+			"#000000"
+
+		],
+
+		"KEYBOARD": [
+
+			"#000000"
+
+		],
+
+		"CHANNEL_TEXT_AREA_BACKGROUND": [
+
+			"#e1e1e1"
+
+		],
+
+		"CHANNEL_ICON": [
+
+			"#a3a3a3"
+
+		],
+
+		"CHANNELS_DEFAULT": [
+
+			"#a3a3a3"
+
+		],
+
+		"CHAT_BACKGROUND": [
+
+			"#000000"
+
+		]
+
+	},
+
+	"rawColors": {
+
+		"PRIMARY": "#000000",
+
+		"PRIMARY_100": "#ffffff",
+
+		"PRIMARY_200": "#d5d5d5",
+
+		"PRIMARY_300": "#f097b5",
+
+		"PRIMARY_360": "#e3e3e3",
+
+		"PRIMARY_400": "#f097b5",
+
+		"PRIMARY_500": "#000000",
+
+		"PRIMARY_600": "#00000048",
+
+		"PRIMARY_630": "#000000",
+
+		"PRIMARY_660": "#000000",
+
+		"PRIMARY_700": "#000000",
+
+		"PRIMARY_800": "#000000",
+
+		"PRIMARY_900": "#000000",
+
+		"YELLOW_300": "#f097b5",
+
+		"BRAND_260": "#f097b5",
+
+		"BRAND_360": "#f097b5",
+
+		"BRAND_500": "#f097b5",
+
+		"BRAND_560": "#eb6c96",
+
+		"GREEN_360": "#f097b5",
+
+		"RED_400": "#f097b5",
+
+		"ORANGE_345": "#000000",
+
+		"RED_560": "#000000",
+
+		"GREEN_345": "#000000",
+
+		"BLUE_345": "#000000",
+
+		"WHITE_500": "#ffffff"
+
+
+
+	},
+
+	"background": {
+
+		"blur": 0,
+
+		"url": "https://cdn.discordapp.com/attachments/820270400423591969/1145072958327492660/Untitled16_20230827010836.png",
+
+		"alpha": 0.48
+
+	},
+
+	"spec": 2
+
 }
